@@ -29,31 +29,46 @@ function Home() {
 
   </div>
          </center> 
-             <div className="pha"><p>Computer games are the most popular entertainments in modern societies and they target
-                  a variety of people in different ages. The addiction to the rivalry and excitements of 
-                  the games make them the most common recreational programs for today's teenagers, so that they 
-                  do anything to reach a higher level of the game, they immerse in the game so much that they completely 
-                  separate from their surroundings. Challenging with the obstacles and reaching a higher level in the game,
-                   make the players excited and losing the game make them anxious.</p>
-<p>Since these games are known as the second entertainment after TV, opponents of these games emphasize on their negative 
-effects such as stimulating anger and violence, costing a lot of money and having negative effects of physical and 
-mental health, which are much higher than the positive effects of the games such as increasing the coordination of 
-eyes and hands.
-Currently in Iran, a great part of students' leisure time out of school is spent on computer games.6 The reasons for 
-adolescents' attraction to these games include being excited and easily accessible while authorities and families do not have 
-any proper plan for students' leisure time and there is not many options for their entertainments. 
-Playing computer games to some extent can be useful, but long-term playing leads to various physical and mental 
-complications.</p>
+             <div className="pha"><p>Playing video games is a popular activity people do in their free time. However, 
+                 video games can have major effects on health. People debate whether these effects are good or bad. Video 
+                 games can improve children’s learning, health, and social skills.
+Both children and adults enjoy playing video games. There’s research that shows there’s a benefit to playing video games. 
+There’s also research that implies video games could lead to disrupted sleep, media addiction, and violent behavior.
+If your child is showing concerning behavior, you may need to step in. These may include irritability when not playing their 
+game or they’re showing increasing aggression. Even if this behavior occurs, there are steps you can take to regulate violent 
+media intake. We hope to help you.
+</p>
+<h3 className="hed">How Safe Are Video Games?
+</h3>
+<p>Video gamers, parents, politicians and the press often lionize or attack video games, which opens 
+    the door to spin that obfuscates our understanding of how these games affect people. For example, the European 
+    Parliament has been debating whether to limit children’s access to video games. In a press statement about the report that 
+    resulted from its deliberations, the parliament concluded that games could have “harmful effects on the minds of children.” 
+    Reporting on this statement, however, the headline in the Guardian read, “Video games are good for children.”
+
+
+</p>
+<img className="safimge" src="https://www.npd.com/wp-content/uploads/2021/06/Cheerful-kids-are-sitting-together-on-sofa-at-home.-Girls-are-playing-game-console-while-boy-is-cheering-for-them.jpg"/>
 
   <p>
-  Long term involvement with these games means the players long term tension, restlessness and worrisome 
-  and during the game, physical tensions and real physical stimulations are experiences. By sympathetic 
-  nervous system stimulation, this can gradually make this system sensitive and ready for response to 
-  limited stimulants, while causes anxiety symptoms in the player. A study by Sherry et al (2001) investigating 
-  the reasons for playing video and computer games by adolescents and their game priorities on 535 adolescents in 
-  age 15-20 in the West USA found that 68% of adolescents had these games as their weekly entertainment. 
-  The reasons for playing these games among boys were excitements and challenges and they insisted to win. Moreover, 
-  sport and violent games were more attractive for boys</p></div>
+  Video games are relatively safe for your child to play. Despite previous research suggesting the dangers of video games, 
+    there are ways to protect your child. You can prevent potential harm from a video game by monitoring and limiting what 
+    they’re playing. Talk to your child about staying safe online. 
+Building a trusting relationship will make your child want to talk to you. They’ll be more inclined to let you know how they 
+are feeling about life. This can help you notice if they are struggling and need help. There are three parts to consider before 
+you worry about your child and violent video games: their personality, the situation they're in, and their motivation behind playing 
+video games. These play a part in how they react to violence on screen.</p>
+<p>However, Psychologists and neuroscientists conducting well-designed studies are beginning to shed light on the actual effects of video games. These studies show a clear trend: Games have many consequences in the brain,
+     and most are not obvious—they happen at a level that overt behaviors do not immediately reflect. Because the effects are subtle,
+      many people think video games are simply benign entertainment.
+
+Research projects of variable strength have substantiated claims of both beneficial and harmful effects. Too often the discussion ends 
+there in a “good” versus “evil” battle, reminiscent of the plots of the violent video games themselves.</p>
+<h3 className="hed">Benefits of Playing Video Games</h3>
+<p>Video games are good for helping children develop problem-solving skills. They aren’t lazy as previous research has suggested. 
+Video games can strengthen your child’s cognitive skills. They can improve your child’s capacity to think in
+ three-dimensional ways. </p>
+</div>
              </div>         
 
        </div>

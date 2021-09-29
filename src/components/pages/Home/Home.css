@@ -7,15 +7,27 @@
   background-image: url("https://cdn0.vox-cdn.com/hermano/polygon/game/image/3659/Gears-of-War-Judgement_Default.jpg");
   box-shadow: 2px 2px 2px 2px rgb(223, 223, 223);
 }
+.safimge {
+  width: 500px;
+  height: 300px;
+  float: right;
+  margin-right: 100px;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+.hed {
+  margin-top: 50px;
+  color: rgb(68, 68, 68);
+}
 .containerh {
   background-color: rgb(233, 233, 233);
   height: 1500px;
 }
 .textc {
   margin-top: 0px;
-  margin-left: 110px;
+  margin-left: 3%;
   height: 1600px;
-  width: 1300px;
+  width: 94%;
   background-color: white;
   box-shadow: 1px 1px 1px rgb(201, 201, 201);
   border-radius: 5px;

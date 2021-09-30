@@ -43,7 +43,7 @@ function Service() {
           }}
           id="service_tite"
         >
-          HARMFUL GAMES
+          Dangerous Online Games
         </p>
         <div className="mb-3">
           <Pagination totalPages={totalPages} handleClick={handleClick} />

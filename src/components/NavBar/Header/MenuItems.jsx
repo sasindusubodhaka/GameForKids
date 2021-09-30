@@ -5,7 +5,7 @@ export const MenuItems=[
       cName:'nav-links'  
     },
     {
-        title:"SERVICES",
+        title:"HARMFUL GAMES",
         link:"./service",
         cName:'nav-links'  
     },
@@ -15,12 +15,12 @@ export const MenuItems=[
         cName:'nav-links'  
     },
     {
-        title:"EQUIPMENTS",
+        title:"REDUCE ADDICTION",
         link:"./audiogears",
         cName:'nav-links'  
     },
     {
-        title:"ABOUT",
+        title:"FIND ADDICRED KIDS",
         link:"./aboutus",
         cName:'nav-links'  
     }

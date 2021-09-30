@@ -51,7 +51,60 @@
 .contact4 .text-inverse {
     color: #3e4555 !important;
 }
+.header{
+    font-size:70px;
+    color: rgb(255, 255, 1);
+    font-weight: bolder;
+    text-shadow: #000000 5px 5px;
+    margin-bottom: 70px;
+}
+.topic{
+  font-size:30px;
+    color: rgb(255, 255, 1);
+    font-weight: bold;
+    text-shadow: #6e6e6e 2px 2px;
+    text-align: left;
+    margin-left: 50px;
+}
+.text{
+    color: #ffffff;
+    font-size: 30px;
+    /* font-weight: bolder; */
+    text-align: left;
+    text-shadow: #272626 3px 3px 3px;
 
+}
+.table{
+    display:table;
+}
+.table-row{
+  display:table-row;
+}
+.table-column{
+  display:table-column;
+}
+.description{
+  color: white;
+  font-size: 20px;
+  text-shadow: #444242 2px 2px 2px;
+  text-align: left;
+  margin-left: 50px;
+
+}
+.quoteTopic{
+  font-size: 23px;
+  color:#d065eb;
+  font-style: italic;
+}
+.quoteText{
+  font-size: 20px;
+  color:#ffffff;
+  font-style: italic;
+}
+.quote{
+  font-size: 20px;
+  color:#ffffff;
+}
 @media (min-width: 1024px) {
 	.contact4 .contact-box {
     padding: 80px 105px 80px 0px;

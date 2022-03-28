@@ -8,8 +8,6 @@ import Portfolio from './components/pages/Portfolio/Portfolio';
 import AudioGears from './components/pages/AudioGears/AudioGears';
 import About from './components/pages/About/About';
 
-
-
 import './components/assets/css/bootstrap.min.css';
 import './components/assets/css/style.css';
 import React from 'react';
